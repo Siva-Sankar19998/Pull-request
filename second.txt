@@ -1,1 +1,2 @@
 New file added in second named file in feature branch two
+some text added in feature branch three
